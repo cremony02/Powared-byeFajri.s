@@ -1,2 +1,1 @@
-# Powared-byeFajri.s
-WEB
+# WEBSITE-SEKOLAH
